@@ -22,21 +22,21 @@ Design a simple text-based interface using print statements. Display the current
 
 Game Logic:
 
-Implement the core game logic:
+1.Implement the core game logic:
 
-Select a random word from a list.
+2.Select a random word from a list.
 
-Display the word as underscores initially.
+3.Display the word as underscores initially.
 
-Prompt the player to guess a letter.
+4.Prompt the player to guess a letter.
 
-Check if the letter is in the word and update the display accordingly.
+5.Check if the letter is in the word and update the display accordingly.
 
-Track incorrect guesses and decrement remaining attempts.
+6.Track incorrect guesses and decrement remaining attempts.
 
-End the game when the word is guessed correctly or attempts run out.
+7.End the game when the word is guessed correctly or attempts run out.
 
-Add quit option at the end of it.
+8.Add quit option at the end of it.
 
 Code Structure:
 Organize your code into functions for better modularity and readability. Consider functions for word selection, display update, guess validation, game status check, etc.
