@@ -6,6 +6,26 @@
 
 **Tester**-Jatin Patter
 
+To play the Hangman Game implemented using tkinter in Python, follow these steps:
+
+1. When you run the script, a GUI window will appear titled "Hangman Game."
+2. You will see two dropdown menus:
+   - Category: Choose a category from Animals, Countries, or Fruits.
+   - Difficulty: Choose the difficulty level from Easy, Medium, or Hard.
+3. Select your desired options from the dropdown menus.
+4. Click on the "Start Game" button to begin the game.
+5. Once the game starts, the selected category's secret word will be chosen randomly, and the display will show underscores representing each letter in the word.
+6. Below the display, there will be an entry field where you can guess a letter and a "Guess" button to submit your guess.
+7. Enter a single letter in the entry field and click the "Guess" button.
+   - If the letter is correct and part of the secret word, it will be revealed in its respective position(s).
+   - If the letter is incorrect, it will count as a wrong guess, and part of the hangman will be displayed.
+8. Continue guessing letters one at a time until you either:
+   - Guess all the letters in the word correctly and win the game (you will see a congratulatory message).
+   - Exceed the maximum allowed wrong guesses (6 by default) and lose the game (the word will be revealed, and you will see a game over message).
+9. After winning or losing, you can restart the game by clicking the "Start Game" button again and choosing new options from the dropdown menus.
+
+Note: The hangman display will update as you make wrong guesses, showing the hangman figure progressively as you approach the maximum allowed wrong guesses.
+
 Manager is reaching out to assign Develpor an exciting task: developing a Hangman game in Python.
 This project will not only showcase your programming skills but also provide a fun and interactive experience for users.
 
