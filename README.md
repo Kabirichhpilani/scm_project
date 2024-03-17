@@ -1,8 +1,8 @@
 ﻿**project title**-Creating Hangman Game on Python 
  
-**Manager**-Manan Sharma
+**Manager**-Kabir
 
-**Developer**-Kabir
+**Developer**-Manan Sharma
 
 **Tester**-Jatin Patter
 
